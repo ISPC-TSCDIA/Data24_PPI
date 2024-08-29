@@ -1,4 +1,4 @@
-# Data24_PPI
+# Data Decoders
 Espacio de trabajo para la materia "Práctica profesionalizante I" de la TSCDIA del ISPC.
 
 Enlace a la Notebook en Google Colab:
