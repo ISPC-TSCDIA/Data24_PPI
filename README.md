@@ -4,6 +4,8 @@ Espacio de trabajo para la materia "Práctica profesionalizante I" de la TSCDIA 
 # Integrantes
 - Christian Nüesch
 - Erick López
+- Abigail Zurita Rojo
+- Agustin Galeano
 
 # Tematica del proyecto
 
